@@ -1,0 +1,4 @@
+FirstName,LastName,Username,Email,Department,JobTitle,Groups
+John,Doe,jdoe,jdoe@company.com,IT,Helpdesk,Helpdesk;VPN
+Jane,Smith,jsmith,jsmith@company.com,HR,HR Manager,HR;VPN
+Bob,Johnson,bjohnson,bjohnson@company.com,Finance,Accountant,Finance;VPN
